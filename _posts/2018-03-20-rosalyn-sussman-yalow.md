@@ -5,9 +5,9 @@ description: Women’s History Month & Rosalyn Sussman Yalow (ANS Nuclear Cafe P
 image: assets/images/rosalyn-sussman-yalow.jpg
 ---
 
-By Katie Mummah
+By Katie Mummah, 03/20/2018
 
-This article originally on the <a href="http://ansnuclearcafe.org/2018/03/20/womens-history-month-physicist-dr-rosalyn-sussman-yalow/#sthash.Fxz1ZbXn.dpbs">ANS Nuclear Cafe</a> to celebrate women's history month.
+This article originally appeared on the <a href="http://ansnuclearcafe.org/2018/03/20/womens-history-month-physicist-dr-rosalyn-sussman-yalow/#sthash.Fxz1ZbXn.dpbs">ANS Nuclear Cafe</a> to celebrate women's history month.
 
 Rosalyn Sussman Yalow was a medical physicist and won the 1977 Nobel Prize in Physiology or Medicine along with her partner Solomon Berson for the development of radioimmunoassay (RIA).
 
