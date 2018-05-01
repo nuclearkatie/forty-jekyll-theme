@@ -5,7 +5,7 @@ description: Students Apply for ANS Scholarships! (ANS Nuclear Cafe Post)
 image: assets/images/SCHOLARSHIPS-apply.jpg
 ---
 
-By Katie Mummah
+By Katie Mummah, 01/22/2018
 
 This article originally appeared on the <a href="http://ansnuclearcafe.org/2018/01/22/students-apply-for-ans-scholarships/#sthash.exwMPTP5.dpbs">ANS Nuclear Cafe</a>
 

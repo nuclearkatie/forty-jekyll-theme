@@ -5,9 +5,9 @@ description: Women’s History Month & Nuclear Physicist Katharine Way (ANS Nucl
 image: assets/images/katharine_way.jpg
 ---
 
-By Katie Mummah
+By Katie Mummah, 03/01/2018
 
-This article originally on the <a href="http://ansnuclearcafe.org/2018/03/07/30594/#sthash.TVKbpr0R.dpbs">ANS Nuclear Cafe</a> to celebrate women's history month.
+This article originally appeared on the <a href="http://ansnuclearcafe.org/2018/03/07/30594/#sthash.TVKbpr0R.dpbs">ANS Nuclear Cafe</a> to celebrate women's history month.
 
 Happy Women’s History Month! Each week during the month of March, one woman from the history of nuclear science and technology will be featured on the ANS Nuclear Cafe.
 

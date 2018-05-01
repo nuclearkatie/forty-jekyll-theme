@@ -5,7 +5,7 @@ description: ANS Student Director Says National & Student Section Memberships ar
 image: assets/images/ans-logo.png
 ---
 
-By Katie Mummah
+By Katie Mummah, 8/14/2017
 
 This article originally appeared on the <a href="http://ansnuclearcafe.org/2017/07/05/ans-student-director-says-national-student-section-memberships-are-both-a-must/#sthash.A5WXOcMM.LgrZ2Alu.dpbs">ANS Nuclear Cafe</a>
 
