@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title:
 description:
 image:
 nav-menu: true
