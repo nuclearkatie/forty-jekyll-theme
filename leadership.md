@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Selected Leadership
+title: Leadership
 description:
 image:
 nav-menu: true
@@ -28,17 +28,46 @@ nav-menu: true
 				<td>Student Director</td>
 			</tr>
 			<tr>
-				<td>2016-2017</td>
-				<td>Student Sections Committee Member</td>
+				<td>2018-2021</td>
+				<td>Executive Committee, Nuclear Nonproliferation Policy Division</td>
+			</tr>
+			<tr>
+				<td>2018-2021</td>
+				<td>Member, Diversity & Inclusion Committee</td>
 			</tr>
 			<tr>
 				<td>2016-2019</td>
-				<td>Local Sections Committee Member</td>
+				<td>Member, Student Sections Committee</td>
+			</tr>
+			<tr>
+				<td>2016-2019</td>
+				<td>Member, Local Sections Committee</td>
 			</tr>
       <tr>
         <td>2014-Present</td>
         <td>Student Member</td>
       </tr>
+		</tbody>
+	</table>
+</div>
+
+<h4><a href="https://sites.google.com/atomicbadger.org/home">University of Wisconsin-Madison Student Section</a></h4>
+
+<div class="table-wrapper">
+	<table>
+	<colgroup>
+		<col style="width:20%">
+		<col style="width:80%">
+	</colgroup>
+		<tbody>
+			<tr>
+				<td>Fall 2017</td>
+				<td>Advocacy Chair</td>
+			</tr>
+			<tr>
+				<td>Fall 2018</td>
+				<td>Governor A</td>
+			</tr>
 		</tbody>
 	</table>
 </div>
@@ -83,11 +112,11 @@ nav-menu: true
   <tbody>
     <tr>
       <td>2015-2016</td>
-      <td>Founder &amp; Co-chair</td>
+      <td>Co-founder &amp; Co-chair, University of Illinois section</td>
     </tr>
     <tr>
       <td>2015-Present</td>
-      <td>Member</td>
+      <td>Student Member</td>
     </tr>
   </tbody>
 </table>

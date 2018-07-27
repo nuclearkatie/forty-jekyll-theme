@@ -3,7 +3,7 @@ layout: page
 title: Education &amp; Experience
 description:
 image:
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->
@@ -16,23 +16,7 @@ nav-menu: true
 			<h1>Education, Experience, &amp; Awards</h1>
 		</header>
 
-    <div class="row">
-    	<div class="6u 12u$(small)">
-        <h2>Education</h2>
-
-				<h4>University of Wisconsin-Madison</h4>
-<!--				<p><span class="image left"><img src="/assets/images/pic12.jpg" alt="" /></span> --> Graduate student,			  <a href="https://www.engr.wisc.edu/department/engineering-physics/">Nuclear Engineering & Engineering Physics</a> <br>
-				<p> <br> <br> </p>
-    		<h4>University of Illinois</h4>
-        <p><span class="image left"><img src="/assets/images/pic12.jpg" alt="" /></span> <br> Bachelors of Science, May 2017 <br>
-        <a href="http://npre.illinois.edu">Nuclear, Plasma, and Radiological Engineering</a> <br>
-        <i>Atmospheric Sciences Minor</i></p>
-
-<!--				<p><span class="image left"><img src="/assets/images/uwcrest_web.png" alt="" /></span> <br> Graduate student, <br>
-				<a href="https://www.engr.wisc.edu/department/engineering-physics/">Nuclear Engineering & Engineering Physics</a> <br> -->
-<!--				<p> <br> <br> <br> <br> </p> -->
-
-        <p> <br> <br> <br> </p>
+		<p> <br> <br> <br> </p>
         <h2>Selected Awards &amp; Honors</h2>
         <h4>Awards</h4>
         <ul class="alt">
@@ -54,45 +38,46 @@ nav-menu: true
         	<li>2014 | <a href="http://engineering.illinois.edu/academics/undergraduate/honors.html">University of Illinois James Scholar</a>s</li>
         </ul>
 
-    	</div>
+    </div>
 
+<hr class="major" />
 
-    	<div class="6u$ 12u$(small)">
-        <h2>Experience</h2>
-				<h4><a href="http://lanl.gov">Los Alamos National Lab</a></h4>
-				<p><i>Systems Design &amp; Analysis Intern</i> | Summer 2017 <br>
-				<ul>
-					<li>Developed MCNP decks for nuclear thermal rockets</li>
-					<li>Completed the Dr. G. Robert Keepin Nonproliferation Summer School</li>
-        	<li>Created and taught a primer on nuclear engineering for students without a background in nuclear science and engineering</li>
-				</ul> <br> </p>
-				<h4><a href="https://inl.gov">Idaho National Lab</a></h4>
-    		<p><i>Fuels Modeling &amp; Simulation Intern</i> | Summer 2016 <br>
-        <ul>
-          <li>Developed and ran fuel simulations using the BISON fuel performance code.</li>
-          <li>Validated the code with Pellet Clad Mechanical Interaction (PCMI) data from the Halden Research Reactor.</li>
-          <li>Took a short course on C++ and well as Neutron Transport Theory.</li>
-        </ul> <br> </p>
+	<div class="6u$ 12u$(small)">
+		<h2>Experience</h2>
+			<h4><a href="http://lanl.gov">Los Alamos National Lab</a></h4>
+			<p><i>Systems Design &amp; Analysis Intern</i> | Summer 2017 <br>
+			<ul>
+				<li>Developed MCNP decks for nuclear thermal rockets</li>
+				<li>Completed the Dr. G. Robert Keepin Nonproliferation Summer School</li>
+      	<li>Created and taught a primer on nuclear engineering for students without a background in nuclear science and engineering</li>
+			</ul> <br> </p>
+			<h4><a href="https://inl.gov">Idaho National Lab</a></h4>
+  		<p><i>Fuels Modeling &amp; Simulation Intern</i> | Summer 2016 <br>
+      <ul>
+        <li>Developed and ran fuel simulations using the BISON fuel performance code.</li>
+        <li>Validated the code with Pellet Clad Mechanical Interaction (PCMI) data from the Halden Research Reactor.</li>
+        <li>Took a short course on C++ and well as Neutron Transport Theory.</li>
+      </ul> <br> </p>
 
-        <h4>University of Illinois</h4>
-        <p><i>Undergraduate Teaching Assistant</i>
-        <ul>
-          <li>Lead TA for ENG 100: Orientation to Engineering</li>
-          <li>TA for NPRE 100: Orientation to Nuclear, Plasma, and Radiological Engineering</li>
-          <li>TA for NPRE 101: Introduction to Energy Sources</li>
-        </ul> <br> </p>
+      <h4>University of Illinois</h4>
+      <p><i>Undergraduate Teaching Assistant</i>
+      <ul>
+        <li>Lead TA for ENG 100: Orientation to Engineering</li>
+        <li>TA for NPRE 100: Orientation to Nuclear, Plasma, and Radiological Engineering</li>
+        <li>TA for NPRE 101: Introduction to Energy Sources</li>
+      </ul> <br> </p>
 
-        <h4>Exelon Generation</h4>
-        <p> <i>Reactor Engineering Intern</i> | Summer 2015
-        <ul>
-          <li>Developed communication tools to convey Reactivity Management (RM) concepts to 700+ plant employees. Tools included a quarterly newsletter, RM system of the week, and RM awareness posters around the site. </li>
-          <li>Verified Special Nuclear Material Inventory and bundle orientations for all spent fuel (and radioactive sources) at the site.</li>
-        </ul>
+      <h4>Exelon Generation</h4>
+      <p> <i>Reactor Engineering Intern</i> | Summer 2015
+      <ul>
+        <li>Developed communication tools to convey Reactivity Management (RM) concepts to 700+ plant employees. Tools included a quarterly newsletter, RM system of the week, and RM awareness posters around the site. </li>
+        <li>Verified Special Nuclear Material Inventory and bundle orientations for all spent fuel (and radioactive sources) at the site.</li>
+      </ul>
 
-        <i>Spent Fuel &amp; Decommissioning Intern</i> | Summer 2014 </p>
-        <p><ul>
-          <li>Created a database which houses information about all fuel that has failed within the entire lifetime of Exelon's 23 nuclear reactors. </li>
-          <li>Aided Exelon employees in various projects including accumulating data on cycle burnups for 4 of Exelon's reactors, and verifying fuel moves at the Zion reactor, which is currently being decommissioned.</li>
-        </ul> <br> </p>
+      <i>Spent Fuel &amp; Decommissioning Intern</i> | Summer 2014 </p>
+      <p><ul>
+        <li>Created a database which houses information about all fuel that has failed within the entire lifetime of Exelon's 23 nuclear reactors. </li>
+        <li>Aided Exelon employees in various projects including accumulating data on cycle burnups for 4 of Exelon's reactors, and verifying fuel moves at the Zion reactor, which is currently being decommissioned.</li>
+      </ul> <br> </p>
 
-    	</div>
+    </div>
